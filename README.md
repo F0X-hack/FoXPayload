@@ -2,12 +2,13 @@
 
 
 1. Installation & Setup
-   ```sh
+```sh
    git clone https://github.com/F0X-hack/FoXPayload.git
    cd FoXPayload
    chmod +x setup.sh
    ./setup.sh
-   ```
+   FoXPayload
+```
 <img width="761" height="956" alt="image" src="https://github.com/user-attachments/assets/63ad6b04-d4ca-47c0-8e29-b70018991dec" />
 
 
